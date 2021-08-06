@@ -1,2 +1,2 @@
 # HTML-kodluyoruz
-kodluyoruz ödevleri
+ designs Google's logo at 1998
